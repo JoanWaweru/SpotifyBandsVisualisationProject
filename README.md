@@ -119,8 +119,3 @@ By leveraging this dataset, you can continue your audio feature analysis seamles
 
 ## Contributors
 - [Joan Waweru](https://github.com/joanwaweru) - Project Author
-
----
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
