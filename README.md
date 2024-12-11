@@ -27,7 +27,7 @@ A Python-based project that extracts data from Spotify's API to gather insights 
 
 ## Important Disclaimer
 
-As of **November 27, 2024**, Spotify has deprecated access to several Web API endpoints, including those for retrieving audio features and analyses of tracks. This change affects new applications and those in development mode, limiting their ability to access detailed audio data. For more details, visit the [Spotify Developer Blog](https://developer.spotify.com/blog/2024-11-27-changes-to-the-web-api?utm_source=chatgpt.com).
+As of **November 27, 2024**, Spotify has deprecated access to several Web API endpoints, including those for retrieving audio features and analyses of tracks. This change affects new applications and those in development mode, limiting their ability to access detailed audio data. For more details, visit the [Spotify Developer Blog](https://developer.spotify.com/blog/2024-11-27-changes-to-the-web-api).
 
 ### Recommended Solution
 To overcome this limitation, you can use the **pre-extracted dataset** provided by this project:
